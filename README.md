@@ -24,7 +24,7 @@
 
 ---
 
-## 💻 Programming Languages
+
 
 ## 💻 Programming Languages
 
