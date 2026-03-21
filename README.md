@@ -85,11 +85,6 @@ Small practice projects built using HTML, CSS, and JavaScript.
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/23cs150-ops/23cs150-ops/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Connect With Me
 
