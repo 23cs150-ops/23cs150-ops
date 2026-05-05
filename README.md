@@ -98,13 +98,6 @@ Small practice projects built using HTML, CSS, and JavaScript.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=23cs150-ops&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23cs150-ops&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
